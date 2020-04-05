@@ -1,0 +1,24 @@
+“Kuantum” kelimesi içinde taşıdığı anlam bakımından o kadar gelişmiş ve karmaşık görünüyor ki, ilk bakışta ne demek olduğunu söylemek çok zor.
+
+Her kuantum atılımı başarılı bir çalışma  ortaya koyamazken, kuantum internet denildiğinde heyecanlanmamak pek mümkün değil. En basit anlamda, kuantum internet bilgi göndermek için radyo dalgaları yerine kuantum sinyaller kullanan bir internet olacaktır.
+
+Bilindiği gibi internet, çeşitli bilgisayarlara elektronik sinyaller gönderip geri alarak küresel bir web üzerinden bağlanmak için radyo frekansları kullanıyor. Kuantum internette, sinyaller dolaşımdaki kuantum parçacıklarını kullanan bir kuantum ağı yoluyla gönderilir.
+
+Einstein’ın “uzakta ürkütücü eylem” şeklinde ifade ettiği bir tür kuantum ışınlama olan kuantum ağı, birbirine karışan parçacıklar ile birinde taşınan bilginin anında diğerine yansımasını sağlayan özel bir durumda var olur.
+
+Araştırmacılar son zamanlarda bu kuantum iletişim ağı kurma konusunda önemli ilerlemeler kaydetti. Çin, geçen yıl dünyanın ilk kuantum iletişim uydu sistemini başlattı. O zamandan beri, yeryüzündeki entangre fotonları tekrar tekrar göndermek için sınırlamaları kullanmaya ve genişletmeye çalışıyorlar. Ayrıca kuantum bellek kullanarak bilgi saklamayı başardılar. Ağustos ayı sonuna kadar Çin, Pekin-Şangay İnternetini artırmak için çalışan bir kuantum iletişim ağı kurmayı planlıyor.
+
+Bu çalışmaların başında Çin Bilim ve Teknoloji Üniversitesi’nden Jian-Wei Pan geliyor. Pan 2030’da küresel bir kuantum ağı kurulacağını umuyor. Bu da kuantum internetin sadece 13 yıl uzakta olduğu anlamına geliyor.
+
+Kuantum Web Sörfü
+İlk olarak, sosyal medya akışınızı güncellemek için kuantum internet‘i kullanma olasılığı son derece düşüktür. Washington’daki fizikçi Kai-Mei Fu Üniversitesi, WIRED‘e verdiği demeçte, “Pek çok durumda, mekanik olarak kuantum iletimi pek mantıklı değil” dedi. Böyle şeyler için düzenli internet iletişimi yeterlidir.
+
+Kuantum interneti bilgileri güvenli bir şekilde gönderirken mükemmel çalışır. Kuantum şifreleme olarak bilinen şey sayesinde, insanlar bir kuantum ağı üzerinden “unhackable” veri gönderebilirler.
+
+Bunun nedeni, kuantum şifrelemesi kuantum anahtarı dağıtımı (QKD) adı verilen, şifreli bir mesaj anlamına gelen ve anahtarları ayrı gönderilen bir mekanik kullanmasıdır. Böyle bir mesajla müdahale, gönderenin ve alıcının durumunu bildirecek şekilde otomatik olarak yok edilmesine neden olur.
+
+Kuantum internet, bulutta kuantum hesaplama yaparak çalışan bir kuantum bilgisayara erişimi hızlandırabilir. Araştırmacılar satın alacağınız bilgisayarınız ile bu internete ulaşmaya çalışmak yerine, bunu kamuya açık hale getirebilmeyi başarabilmiş değiller. Ancak bulut üzerinden birine erişebilirsiniz.
+
+Kişisel bir bilgisayar, bulut tabanlı kuantum bilgisayarı üzerinden kuantum şifrelenmiş bilgiye ulaşabilir. En azından “unhackable” e-postaları gönderebilir. Fu, WIRED‘e verdiği demeçte “Kullanıcılar, bilgilerini bildikleri klasik yollarla göndermek istemeyebilir.” dedi.
+
+Aslında, kuantum internet büyük olasılıkla normal internetin uzmanlaşmış bir şubesi olarak tanımlanabilir. Bir tanesi yalnızca belirli görevler için bağlanacak. Bununla birlikte, kuantum internet geçerli internetin yaptığı gibi çalışmıyor olsa da kesin olan şey son teknoloji, fizikçilerden en son akışlara kadar düzenli Joes’a kadar herkese fayda sağlama potansiyeline sahip olacağıdır.

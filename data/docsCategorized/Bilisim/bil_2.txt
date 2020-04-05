@@ -1,0 +1,20 @@
+Bu temel bilgisayar eğitimi, farklı bilgisayar tiplerine odaklanıyor. Bilgisayarlar çok büyük ya da çok küçük olabilir. Süper-bilgisayar denen son derece karmaşık hesaplamalar yapan binlerce işlemcinin birbirine bağlandığı çok büyük bilgisayarlar vardır. Bazı bilgisayarlar da arabalara, TVlere, stereo sistemlere, hesap makinelerine ve ev aletlerinin içine gömülmüştür.
+Her bilgisayar tasarımı belli görevleri ve fonksiyonları yerine getirmek için yapılmıştır. Masaüstü ya da kişisel bilgisayarlar aynı anda tek bir kişi tarafından kullanılmak üzere yapılır. Bu makalede şu bilgisayar türlerinden söz edeceğiz: masaüstü, dizüstü, avuçiçi, tablet.
+
+Masaüstü Bilgisayarlar:
+
+Masaüstü bilgisayarlar (adından da anlaşıldığı gibi) masa veya sıra üzerinde kullanılmak için tasarlanmıştır. Diğer bilgisayar türlerinden genellikle daha hızlı ve daha büyük olurlar. Masaüstü bilgisayarlar farklı bileşenlerden oluşur. Sistem ünitesi, bilgisayar sisteminizdeki ana ya da temel bileşendir. Dikdörtgensel şekli vardır ve masanın üstünde veya altında durabilir. Diğer bileşenler içinde klavye, fare, hoparlör ve monitör vardır.
+
+Dizüstü Bilgisayar:
+
+Dizüstü bilgisayarlar genellikle hafif ağırlıklı, taşınabilir, ince LCD ekranlı PClerdir. Eminim bunlardan birçok görmüşsünüzdür, hatta bir tane siz kullanıyor da olabilirsiniz. Bazen de notebook bilgisayar denir çünkü defter ve kalem yerine kullanılabilirler. Dizüstü bilgisayarlar bataryayla da çalışabilirler, böylece ihtiyacınız olan heryere götürebilirsiniz. Masaüstü bilgisayarlardan farklı olarak, dizüstü bilgisayarlar tek parçadır. Dizüstü bir kitap gibi açılıp kapanır. Böylece gittiğiniz her yere götürebilir ve bilgisayar kullanmayı istediğiniz yerde öğrenebilirsiniz.
+
+Avuçiçi Bilgisayarlar:
+
+Avuçiçi bilgisayarlar, aynı zamanda PDA da denir (Personal Digital Asistant ' Kişisel Dijital Asistan), Blackberry'ninkiler gibi bataryalı bilgisayarlardır. Avuçiçi bilgisayarlar masaüstü veya dizüstü bilgisayarlar kadar hızlı değillerdir, randevu yapmak, adres ve telefon numaralarının listesini tutmak, oyun oynamak için elverişlidirler.
+
+Bazı avuçiçi bilgisayarlar daha gelişmiş özelliklere sahiptir, telefon araması yapmak veya internete bağlanmak gibi. Klavye yerine, avuçiçi bilgisayarlar ya da PDA'lar, parmağınız ya da özel bir kalemle kullanabileceğiniz dokunmatik ekranlara sahiptirler.
+
+Tablet Bilgisayarlar
+
+Tablet bilgisayarların ne olduğunu biliyor musunuz' Tablet kişisel bilgisayarlar, dizüstü ve avuçiçi bilgisayarların özelliklerini birleştiren taşınabilir bilgisayarlardır. Dizüstü bilgisayarlar gibi tablet bilgisayarlar da çok güçlü ve hızlıdır, ve tablet gibi bir ekrana sahiptirler. Avuçiçi bilgisayarlar gibi tabletler notlar almanıza, tablet kalemiyle doğrudan ekran üzerine çizim yapmanıza izin verir. Tabletlerin el yazınızı daktilo metnine dönüştürebildiğini biliyor muydunuz' Bazı tablet bilgisayarların dönüp katlanan ve bilgisayarın altındaki klavyeyi ortaya çıkaran ekranları da vardır.

@@ -1,0 +1,44 @@
+Enflasyon, kelime Amerika olarak “mal ve hizmetlerin fiyatlarında meydana gelen sürekli artış” anlamına gelmektedir. Yani enflasyon, ele alınacak mal ve hizmetlerin fiyatlarının genel düzeyini ifade eder. Tek tek fiyat artışları enflasyon olarak hesaplanmaz. Ayrıca fiyatlar genel düzeyinin sürekli bir artış içerisinde olması gerekir. Kısaca, bir veya birden fazla malın fiyatının sürekli artış göstermesi ya da bütün malların fiyatının sadece bir defa artış göstermesi enflasyon olarak sayılmaz. Enflasyon artışı, mal ve hizmet fiyatlarının sürekli olarak artmasını ifade ederken; enflasyon düşüşü, mal ve hizmet fiyatlarındaki artışın azalması anlamına gelmektedir.
+
+Bir diğer açıdan enflasyon, dolanımdaki para miktarıyla mal ve hizmetlerin toplamı arasındaki açığın gitgide büyümesinden kaynaklanan fiyatların yükselişi ve bunun karşılığında para değerinin düşmesi durumudur. Bir ülke ekonomisinde işsizlik oranı, fiyatlar genel düzeyi ve enflasyon oranı ölçülerek makro ekonomik performans tespit edilir. Yani enflasyon, ülke ekonomisinin makro ekonomik performansı açısından oldukça önemli bir veridir. Enflasyonun tersi ise "deflasyon"dur. Para arzının düşürülerek paranın değer kazanması durumuna deflasyon denir. Kaynaklarına göre ayrıldığında iki çeşit enflasyon tipi vardır; maliyet enflasyonu ve talep enflasyonu.
+
+Talep Enflasyonu
+Toplam talep düzeyinin arzı aşarak devamlı fiyat artışına neden olması durumunda ortaya çıkan enflasyon, talep enflasyonudur. Talep enflasyonu, tüketim harcamalarındaki artıştan ve bu nedenle para arzının yükselmesinden kaynaklanır. Bir ülkenin ithalatının ihracatından yüksek olmasıyla dış ticaret açığı oluşur ve bu da para ihtiyacını doğurur. Bu nedenle karşılıksız para basma durumu gerçekleşir. Karşılıksız para basma durumu ise, merkez bankasının diğer döviz kurlarına eşit olmaktan vazgeçip piyasaya daha fazla para arz etmesidir. Bu durumda yerli paranın yabancı para karşısında değeri düşer. Aynı para ile daha az mal ve hizmet alımı gerçekleşir. Böylelikle talep kaynaklı enflasyon meydana gelir. Bir başka deyişle talep enflasyonu, tüketici talebini karşılayamadığı zaman talep artışından kaynaklı fiyatların artmasıyla oluşur. Toplam talebi azaltmaya yönelik alınacak tedbirler ve üretimi artırıcı tedbirler sayesinde talep enflasyonunun artması önlenerek normal dengede seyretmesi sağlanabilir.
+
+Maliyet Enflasyonu
+Herhangi bir sebepten ötürü üretimde kullanılan girdi malların fiyatındaki artışlar, üretimde maliyetlerin yükselmesine neden olur. Maliyetlerin yükselmesi de ürün fiyatlarında artışı getirir. Üretim aşamasında girdi olarak kullanılan mal ve hizmetlerin maliyetinde meydana gelen artışlar neticesinde fiyatların sürekli artması durumuna maliyet enflasyonu denir. Maliyet enflasyonu; yerli ve ithal üretim girdi mallarının fiyatının artması (petrol, hammadde gibi) ve ücret-gelir çekişmesi gibi nedenlerden dolayı meydana gelir. Aynı zamanda fiyat artışı, toplam talebin azalmasına neden olur. Talebin düşmesi de piyasalarda durgunluk yaratır. Enflasyon ile piyasalardaki durgunluğun aynı anda yaşanması durumuna ise “stagflasyon” denir. Maliyet enflasyonu en çok ithalatı yüksek olan ülkelerde yaşanan bir durumdur.
+
+Enflasyon Neden Yükselir?
+Enflasyon, ülke ekonomisinde istenmeyen bir ekonomik olaydır. Çünkü paranın değeri düşer, elde bulunan paranın alım gücü azalır, kıt olan kaynakları tüketiciye paylaştırmak önemli bir sorun haline gelir. Bu nedenle enflasyon genellikle nüfus oranı fazla ve kaynakları kıt olan ülkelerde gözlemlenir. Ülkeler enflasyonla mücadele etmek için pek çok yönteme başvurur. Fakat bu yöntemlerin işleyebilmesi için enflasyon artışının neden kaynaklandığına bakılmalıdır. Enflasyonun nedeni, ülkelerin refah düzeyine ve ekonomisine göre pek çok farklılıklar gösterebilir. Ancak genellikle enflasyonun nedenleri olarak aşağıdakiler gösterilebilir;
+
+- Tüketici gelirlerindeki artışın genel talebi artırması, enflasyonun yükselmesinin en temel sebeplerinden biridir. Gelirinde artış olan birey, daha fazla mal ve hizmet almak ister. Bunun neticesinde mal ve hizmetlerin kıtlığından dolayı talep enflasyonu oluşabilir.
+
+- Ülkedeki toplam harcamaların toplam geliri aşması, bir diğer enflasyon artış sebebidir. Toplam harcamalar toplam geliri aştıkça bütçe açığı ortaya çıkar. Bu da ekonomide enflasyon oluşmasına sebep olur.
+
+- Üretim girdilerinin fiyatındaki artışın fazla olması, üretim maliyetlerini artıran bir durumdur. Üretim maliyeti arttıkça üretilen mal ve hizmetin de fiyatı artar. Bu fiyat artışı toplam talebin azalmasına neden olur. Piyasada durgunluk oluşur ve bu durgunluk beraberinde maliyet enflasyonunu getirir. Yüksek faiz oranları, devalüasyon gibi durumlar da üretimde maliyetleri artıran faktörlerdendir.
+
+- Üretim miktarının bazı sebeplerle azalması, toplam talebin karşısında arzın düşmesi demektir. Bu durumda üreticiler, talebi karşılayamadığı için enflasyon oluşur. Üretilen malın değeri artar ve aynı parayla önceden daha fazla alınabilen mal veya hizmet, bu durumda daha az alınır. Bu da enflasyonun varlığını gösterir.
+
+- Piyasada dolaşan para arzının artması, dış ticaret açığının oluşmasıyla meydana gelir. Bir ülkede ihracat ithalattan az olursa dış ticaret açığı oluşur. Bu açık durumunda para ihtiyacı oluşur. Merkez bankası da piyasaya karşılıksız para arz ederek bu açığı kapatır. Fakat bu durumda, paranın değeri düşer ve aynı parayla daha az mal ve hizmet alımı yapılır. Böylelikle ekonomide enflasyon oluşur.
+
+- İthalatı yapılan malların fiyatında meydana gelen artışlar, enflasyonu oluşturan bir diğer etkendir. İthalata çok fazla para yatırılması, dış ticaret açığı doğuracağı için enflasyon oluşturur. Enflasyonun oluşması durumu ise merkez bankasının dış ticaret açığını kapatmak için para arz etmesiyle olur.
+
+- Tasarrufların, yatırımlardan az olması ve dolaşan para miktarının azalması, kamu harcamalarının kamu gelirlerinin üstünde seyretmesi de enflasyonu oluşturan nedenlerdendir.
+
+Enflasyon Yükselmesinin Sonuçları
+- Enflasyon artışını azaltmak için merkez bankası piyasaya daha fazla para arzeder. Bu arz karşısında yerli paranın değeri düşer ve elde bulunan parayla daha az mal ve hizmet alımı yapılır. Bu nedenle ülkede refah düzeyi düşer. Refah düzeyini yükseltmek için ücretlerde artış yoluna gidilmez. Bu nedenle toplumda gelir dağılımı bozulur ve adaletsizlikler oluşur.
+
+- Yüksek enflasyonun olduğu piyasalarda girişimciler yeni istihdam alanları kurmazlar. Bunun riskli bir durum olduğunu düşünerek, ellerindeki nakit parayı döviz, altın ve gayrimenkule yatırarak daha çok kazanmayı amaçlarlar. Bu nedenle üretim yapmak eskisi kadar tercih edilmeyen bir durum haline gelir. Bu da ülke ekonomisinde dalgalanmalara sebep olur. Üretime yönelik girişimlerin azalması, istihdamı azaltarak ülke ekonomisini daraltır.
+
+- Bütçe açığı arttıkça, giderleri karşılamak amacıyla başka ülkelerden borç alınır. Bunun neticesinde ise dış borçlanma artar.
+
+- Yüksek enflasyonun olduğu durumda ülke ekonomisi verimsizleştiği için diğer ülkelerle olan ekonomik rekabet de büyük ölçüde zarar görür. Ekonomik anlamda büyüme ve istihdamın artması için ihtiyaç duyulan yabancı yatırımlar da düşüş gösterir. Yabancı yatırımcı, ülkeye yatırım yapmak yerine ülkeden kaçmayı tercih eder.
+
+- Piyasalarda yatırım yapılmaması ve istihdamın durması yüzünden, emeğin karşılığı olan ücretler düşer ve işten çıkarma durumları artar. Bu olumsuz durum, toplumu hem ekonomik hem psikolojik bakımdan olumsuz etkiler.
+
+Yüksek Enflasyonla Mücadelede Uygulanan Politikalar
+Enflasyon oranının yükselmesi karşısında devlet bazı politikalar uygular. Bu politikalar; maliye politikası ve gelirler politikasıdır.
+
+Maliye politikası: Ekonomide ulaşılmış bulunan dengeyi korumak veya daha iyi bir denge elde etmek amacıyla uygulanan politikadır. Bu dengesizlikleri gidermek için kamu kesimi gelir, gider ve borçlanmalarını kullanarak belirli politikalar uygular. Enflasyonun bulunduğu ekonomilerde, arza göre fazla olan talep fazlasını çekmek için harcamalar azaltılır. Bu harcamalar; kamu harcamaları, yatırım harcamaları, transfer harcamaları ve cari harcamalar olarak ayrılır. Ayrıca vergileri artırarak vergi yükünü yükseltmek de enflasyonu azaltmaya yönelik bir diğer çözümdür.
+
+Gelirler politikası: Bu politikada fiyatların, ücretlerin ve kiraların dondurulması yöntemiyle enflasyon düşürülmeye çalışılır. Bu kalemlere konulacak limitlerle kısa sürede enflasyon düşürücü sonuçlar alınması mümkündür. Fakat bu politika kısa süreli olacak şekilde uygulanır. Uzun süre uygulanırsa karaborsa piyasasını canlandırır ve enflasyonla mücadelede hiçbir etkisi kalmaz. Gelirler politikası, genellikle Latin Amerika ülkelerinde uygulanan bir politikadır.

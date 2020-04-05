@@ -1,0 +1,24 @@
+Siber Güvenlik Kültürü
+
+Öncelikle konuya girmeden Siber güvenlik kültürüne neden ihtiyacımız var bundan bahsedelim. Dünya her geçen gün dijitalleşiyor ve teknolojik anlamda neredeyse her gün datalarımız artıyor, kurumumuza yeni cihazlar ya da farklı sistemler ekleniyor ve yeni çalışanlar katılıyor. Doğal olarak her yenilik güvenlik açığı riskini beraberinde getiriyor. Doğamız gereğidir ki her tehdidi savunmak bazen imkansız olabiliyor, fakat kurum ve kişisel güvenliğimiz gereği riskleri belirleme ve önlemler almak bizim elimizde. Durum böyle olunca günümüz ve gelecekte kurumsal ve kişisel güvenlik için siber güvenlik kültürü büyük önem kazanıyor.
+
+Hiç düşündünüz mü, Bir dakika içinde internette neler oluyor? Aşağıdaki görsel sosyal medyada çokça paylaşıldı. Görseldeki rakamlar 2017 ve 2018 yıllarındaki internet üzerindeki platformların bir dakikadaki etkileşimlerini göstermekte. Bu durumda acaba 1 dakikada ne kadar siber suç ya da olay oluyor?
+
+
+
+Dünya çapında her 60 saniyede bir ortalama 1,1 milyon dolar siber suçlara karşı kaybediliyor ve yaklaşık 2 bin kişi mağdur oluyor. Siber suçlular daha da güçlendikçe, suçları daha karmaşık ve daha sık hale getiriyorlar. Doğal olarak yukarıdaki grafik her geçen gün arttıkça siber suç ve olaylarda kaçınılmaz olarak biz etkilenmesek de ya da bilmesek de artmaya devam ediyor. Bugün hiçbir siber olay ile karşılaşmamamız yarın karşılaşmayacağız anlamına gelmiyor. Her zaman ve her alanda siber güvenlik kültürünü bilen bilinçli kullanıcılar olmalıyız.
+
+Günümüzde şirketlerin çoğu siber güvenlik kültürünü teşvik ederek artan bu tehditlere karşı koymak için proaktif adımlar atmaktadır. Şüphesiz en büyük siber güvenlik risklerinden biri insan hatasıdır. Evde ya da işte olsun, her kullanıcının amacı potansiyel siber suçluların faaliyetlerinden haberdar olmalarını sağlamak ve siber güvenlik konusunda en iyi uygulamaları kullanmalarını sağlamaktır.
+
+Peki bilinçli bir kullanıcı olarak siber güvenlik kültürü kapsamında evde ya da işyerinde neler yapabilirsiniz?
+
+Zorda kalmadıkça ortak ağları kullanmayınız, eğer kullanmak zorundaysanız olabildiğince minimum seviyede tercih ediniz. Aynı zamanda ortak ağda çalışmanız gerekiyorsa güvenli erişim kanalları (VPN) kullanılmasına özen gösterin.
+İnternet kullanımı esnasında erişim sağlanan web sayfalarının adres satırındaki “https” ifadesinin kontrolünü yapın.
+En çok yapılan hatalardan birisi her platformda aynı şifreyi kullanmak. Aksine her platformda farklı, uzun ve benzersiz şifreler kullanmak size daha sağlam bir güvenlik sağlayacaktır.
+Akılda kalıcı, karmaşık ve tahmin edilmez şifreler tercih edin. Şifrelerinizi başka birisi ile paylaşmamalı ve şifrelerinizi her ay olmasa da 3–6 ay arasında değiştiriniz.
+Hem iş hem de kişisel hesaplara erişirken MFA’yı etkinleştirin. Çok faktörlü kimlik doğrulaması olan (MFA) hesaplarınıza erişirken kullanabileceğiniz en güçlü korumadır.
+Yedeklemelerinizi düzenli bir şekilde yapın ve aynı zamanda yedeklerinizi de ayrıca farklı şifreler ile yönetin.
+Akıllı telefonunuzun, tabletlerinizin, masaüstü ve dizüstü bilgisayarınızın güvenli olduğundan emin olun.
+İnternette, sosyal medyada ya da e-posta adresinize gelen her linke tıklamayın. İmleç ile linkin üzerine geldiğinizde yönlendireceği adresi görüp eğer güvenli bir kaynak ise tıklayın. Aksi takdirde güvenilir gibi görünen fakat sizi yanıltıcı bir yönlendirme olabileceği riskini aklınızdan çıkarmayın.
+Siber güvenlik kültürünü benimseyerek kendinizi ve şirketinizi korumak için kendi siber güvenlik kültürü politikanızı belirleyip uygulayın.
+En önemli ve son olarak lisanslı bir anti virüs yazılımı kullanmak, Arada bir güncel olup olmadığını kontrol etmeli ve tüm sistemlerinizi virüs taramasından geçiriniz.

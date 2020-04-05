@@ -79,6 +79,10 @@ Zemberek is a Java-based natural language processing (NLP) tool created for the 
 -   During the model training, fastText will print errors. It still works, just ignore them. If you run the code the second time, model training will be skipped and the console output will be clean of errors.
 
 ## Changelog
+-   30.12.2019 (by fork)
+    -   Word mining algorithm created.
+    -   Document classifier method created with an example.
+    -   Word stemming and picking algorithms enhanced.
 
 -   29.10.2019
     -   Zemberek 0.17.1 update.
