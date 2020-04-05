@@ -1,3 +1,11 @@
+# To run
+
+> Pick one of the classifier_.py 
+> Each one of these has different algorithms to do the same task;
+> _basic one doesn't use extra data mining,
+> _hardened ones use my 'questioanable' word mining logics to perform better.
+
+
 # Zemberek Python Examples
 
 > Zemberek Turkish NLP examples written in Python using the JPype package.
