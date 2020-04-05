@@ -1,4 +1,4 @@
-# To run
+## To run
 
 Pick one of the classifier_.py 
 Each one of these has different algorithms to do the same task;
