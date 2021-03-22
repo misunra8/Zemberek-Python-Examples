@@ -3,7 +3,7 @@
 - Pick one of the classifier_.py 
 - Each one of these has different algorithms to do the same task;
 - _basic one doesn't use extra data mining,
-- _hardened ones use my 'questioanable' word mining logics to perform better.
+- _hardened ones use my 'questionable' word mining logics to perform better.
 
 
 # Zemberek Python Examples
